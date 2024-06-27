@@ -26,3 +26,15 @@ body {
     height: 30px;
     text-decoration: none;
   }
+  .piccontainer1 {
+    width: 100%;
+  }
+  .piccontainer2 {
+    display: flex;
+    justify-content: space-around;
+    background-size: cover;
+  }
+  .sagradaPic, 
+  .gaudiPic {
+    height: 50vh;
+  }
