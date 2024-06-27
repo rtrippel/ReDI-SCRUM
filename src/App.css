@@ -2,8 +2,9 @@ body {
     background-color: #9D9C9B;
     padding: 0px;
     margin: 0px;
-  }
-  nav {
+}
+
+nav {
     background-image: url(Spanienflagge.jpg);
     background-position: center;
     background-size: cover;
@@ -12,44 +13,54 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-  }
-  nav p {
+}
+
+nav p {
     font-size: x-large;
-  }
-  a {
+}
+
+a {
     color: black;
     background-color: greenyellow;
     border-radius: 1rem;
     width: 300px;
     height: 30px;
     text-decoration: none;
-  }
-  .piccontainer1 {
+}
+
+.piccontainer1 {
     width: 100%;
-  }
-  .piccontainer2 {
+}
+
+.piccontainer2 {
     display: flex;
     justify-content: space-around;
     background-size: cover;
-  }
-  .sagradaPic, 
-  .gaudiPic {
+}
+
+.sagradaPic,
+.gaudiPic {
     height: 50vh;
+}
+
 .footer1 {
     background-color: #FFE4C4;
     margin: 1rem;
     border-radius: 1rem;
-  }
-  .footer2 {
+}
+
+.footer2 {
     margin: 1rem;
     padding: 0.5rem;
-  }
-  .home {
+}
+
+.home {
     background-color: #FFE4C4;
     margin: 1rem;
     border-radius: 1rem;
-  }
-  .inlinehome {
+}
+
+.inlinehome {
     margin: 1rem;
     padding: 0.5rem;
-  }
+}
