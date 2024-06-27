@@ -7,3 +7,12 @@
     margin: 1rem;
     padding: 0.5rem;
   }
+  .home {
+    background-color: #FFE4C4;
+    margin: 1rem;
+    border-radius: 1rem;
+  }
+  .inlinehome {
+    margin: 1rem;
+    padding: 0.5rem;
+  }
