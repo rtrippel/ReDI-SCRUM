@@ -1,5 +1,3 @@
-
-
 body {
     background-color: #9D9C9B;
     padding: 0px;
@@ -37,4 +35,21 @@ body {
   .sagradaPic, 
   .gaudiPic {
     height: 50vh;
+.footer1 {
+    background-color: #FFE4C4;
+    margin: 1rem;
+    border-radius: 1rem;
+  }
+  .footer2 {
+    margin: 1rem;
+    padding: 0.5rem;
+  }
+  .home {
+    background-color: #FFE4C4;
+    margin: 1rem;
+    border-radius: 1rem;
+  }
+  .inlinehome {
+    margin: 1rem;
+    padding: 0.5rem;
   }
