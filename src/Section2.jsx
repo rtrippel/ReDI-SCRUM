@@ -2,7 +2,7 @@ function Section2() {
 
   return (
     <>
-    <h2>Section2</h2>
+    
     <hr />
     <div className="home">
       <div className="inlinehome">

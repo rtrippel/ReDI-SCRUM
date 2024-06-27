@@ -47,6 +47,7 @@ a {
     background-color: #FFE4C4;
     margin: 1rem;
     border-radius: 1rem;
+    background-image: url("./Retrospectiv.jpg");
 }
 
 .footer2 {
@@ -63,4 +64,8 @@ a {
 .inlinehome {
     margin: 1rem;
     padding: 0.5rem;
+}
+.Retrospective-image{
+    height: 40vh;
+    width: 30vh ;
 }
