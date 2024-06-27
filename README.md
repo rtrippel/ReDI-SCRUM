@@ -2,5 +2,4 @@
 
 ## Reise WebSeit
 
-
 ### [This site is live here](https://rtrippel.github.io/ReDI-SCRUM/)
