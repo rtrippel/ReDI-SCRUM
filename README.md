@@ -3,4 +3,4 @@
 ## Reise WebSeit
 
 
-### [This site is live here](https://rtrippel.github.io/ReDI-Project1---easy/)
+### [This site is live here](https://rtrippel.github.io/ReDI-SCRUM/)
